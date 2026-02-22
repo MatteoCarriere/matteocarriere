@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm a future engineering student (starting September 2026), currently building foundations before the degree starts.
+
+- 🌱 Currently learning: Python basics and brushing up on math and physics
+- 🔭 This space will grow as I do
