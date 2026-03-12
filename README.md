@@ -1,6 +1,5 @@
 ## Hi, I'm Matteo 👋
-
-IT Technician | Cloud Migration & Excel Automation | Turin, Italy
+Aspiring Data Scientist | Turin, Italy
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -11,11 +10,14 @@ IT Technician | Cloud Migration & Excel Automation | Turin, Italy
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
+### 📌 Projects
+- 🔹 **[task-manager-app](https://github.com/MatteoCarriere/task-manager-app)** — Fullstack web app built with Java/J2EE, MySQL, HTML, CSS and JavaScript
+- 🔹 **[data-explorer](https://github.com/MatteoCarriere/data-explorer)** — Data science portfolio: analysis of tech salaries with pandas & seaborn
+
 ### 💼 Experience
 - 🔹 **Cloud Migration** — Migrated on-premise server to Microsoft 365 (OneDrive, SharePoint), configured shared workspaces, automated backups and data encryption
 - 🔹 **Excel Automation** — Built integrated Excel system for asset management: technical database, real-time dashboards, pivot tables and macros
 
-
 ### 📫 Contact
 📧 carrierematteo75@gmail.com
-📍 Turin, Italy | **Available immediately for junior IT or developer roles**
+📍 Turin, Italy | **Open to junior IT or data roles**
