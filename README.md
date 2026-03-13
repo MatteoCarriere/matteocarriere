@@ -1,5 +1,5 @@
 ## Hi, I'm Matteo 👋
-Aspiring Data Scientist | Turin, Italy
+Junior IT & Data | Turin, Italy
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
