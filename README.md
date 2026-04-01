@@ -1,23 +1,39 @@
-## Hi, I'm Matteo 👋
-Junior IT & Data | Turin, Italy
+# Matteo Carriere
 
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+Sviluppatore web freelance · Torino, Italia  
+Creo siti web e strumenti digitali per piccole imprese locali.
+
+---
+
+## Cosa faccio
+
+Lavoro con **ristoranti, artigiani, professionisti e centri estetici** che hanno bisogno di una presenza online efficace — senza agenzie, senza intermediari, senza costi fissi mensili.
+
+Ogni progetto include prenotazioni o contatti diretti via **WhatsApp Business**.
+
+---
+
+## Progetti recenti
+
+| Progetto | Settore | Demo |
+|----------|---------|------|
+| [trattoria-carmela](https://github.com/MatteoCarriere/trattoria-carmela) | Ristorazione | [Live →](https://matteocarriere.github.io/trattoria-carmela/) |
+| [landing-page-artigiani](https://github.com/MatteoCarriere/landing-page-artigiani) | Artigianato | [Live →](https://matteocarriere.github.io/landing-page-artigiani/) |
+| [aura-beauty](https://github.com/MatteoCarriere/aura-beauty) | Beauty & Spa | [Live →](https://matteocarriere.github.io/aura-beauty/) |
+
+---
+
+## Stack
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
-### 📌 Projects
-- 🔹 **[task-manager-app](https://github.com/MatteoCarriere/task-manager-app)** — Fullstack web app built with Java/J2EE, MySQL, HTML, CSS and JavaScript
-- 🔹 **[data-explorer](https://github.com/MatteoCarriere/data-explorer)** — Data science portfolio: analysis of tech salaries with pandas & seaborn
+---
 
-### 💼 Experience
-- 🔹 **Cloud Migration** — Migrated on-premise server to Microsoft 365 (OneDrive, SharePoint), configured shared workspaces, automated backups and data encryption
-- 🔹 **Excel Automation** — Built integrated Excel system for asset management: technical database, real-time dashboards, pivot tables and macros
+## Contatti
 
-### 📫 Contact
-📧 carrierematteo75@gmail.com
-📍 Turin, Italy | **Open to junior IT or data roles**
+📧 carrierematteo75@gmail.com  
+📍 Torino · Lavoro da remoto su tutto il territorio italiano
