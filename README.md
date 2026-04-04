@@ -20,7 +20,7 @@ Ogni progetto include prenotazioni o contatti diretti via **WhatsApp Business**.
 | [trattoria-carmela](https://github.com/MatteoCarriere/trattoria-carmela) | Ristorazione | [Live →](https://matteocarriere.github.io/trattoria-carmela/) |
 | [landing-page-artigiani](https://github.com/MatteoCarriere/landing-page-artigiani) | Artigianato | [Live →](https://matteocarriere.github.io/landing-page-artigiani/) |
 | [aura-beauty](https://github.com/MatteoCarriere/aura-beauty) | Beauty & Spa | [Live →](https://matteocarriere.github.io/aura-beauty/) |
-| [generatore-fatture-pdf](https://github.com/MatteoCarriere/fattura-generator) | Tool per generazione fatture PDF | — |
+| [fattura-generator](https://github.com/MatteoCarriere/fattura-generator) | Automazione Python | — |
 
 ---
 
