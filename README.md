@@ -15,14 +15,13 @@ Ogni progetto include prenotazioni o contatti diretti via **WhatsApp Business**.
 
 ## Progetti recenti
 
-| Progetto | Settore | Demo |
-|----------|---------|------|
-| [trattoria-carmela](https://github.com/MatteoCarriere/trattoria-carmela) | Ristorazione | [Live →](https://matteocarriere.github.io/trattoria-carmela/) |
-| [landing-page-artigiani](https://github.com/MatteoCarriere/landing-page-artigiani) | Artigianato | [Live →](https://matteocarriere.github.io/landing-page-artigiani/) |
-| [aura-beauty](https://github.com/MatteoCarriere/aura-beauty) | Beauty & Spa | [Live →](https://matteocarriere.github.io/aura-beauty/) |
-| [verde-co](https://github.com/MatteoCarriere/verde-co) | Giardinaggio & Servizi verdi | [Live →](https://matteocarriere.github.io/verde-co/) |
-| [fattura-generator](https://github.com/MatteoCarriere/fattura-generator) | Automazione Python | — |
-
+| Progetto | Settore | Descrizione | Demo |
+|----------|---------|-------------|------|
+| [trattoria-carmela](https://github.com/MatteoCarriere/trattoria-carmela) | Ristorazione | Sito per trattoria locale con menu online e prenotazioni rapide via WhatsApp. | [Live →](https://matteocarriere.github.io/trattoria-carmela/) |
+| [landing-page-artigiani](https://github.com/MatteoCarriere/landing-page-artigiani) | Artigianato | Landing page progettata per generare richieste di preventivo per artigiani locali. | [Live →](https://matteocarriere.github.io/landing-page-artigiani/) |
+| [aura-beauty](https://github.com/MatteoCarriere/aura-beauty) | Beauty & Spa | Sito per centro estetico con presentazione servizi e contatto diretto. | [Live →](https://matteocarriere.github.io/aura-beauty/) |
+| [verde-co](https://github.com/MatteoCarriere/verde-co) | Giardinaggio & Servizi verdi | Sito per servizi di giardinaggio con richiesta intervento veloce. | [Live →](https://matteocarriere.github.io/verde-co/) |
+| [fattura-generator](https://github.com/MatteoCarriere/fattura-generator) | Automazione Python | Applicazione Python con interfaccia grafica per generare fatture PDF automaticamente. | — |
 ---
 
 ## Stack
