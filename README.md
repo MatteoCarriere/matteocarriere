@@ -1,4 +1,4 @@
-# Hi, I'm Matteo 
+# I'm Matteo 
 
 First-year Physics student at the University of Turin.
 Here I keep the code I write for my courses (Python).
